@@ -25,7 +25,7 @@ function setup() {
      canvas = createCanvas(280, 280);
      canvas.center();
      background("white");
-     canavas.mouseReleased(classfierCanvas);
+     canvas.mouseReleased(classifyCanvas);
 }
 
 function draw() {
